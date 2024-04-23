@@ -1,5 +1,6 @@
 # import lib
-from . import lib
+# from . import lib
+from what_import import lib
 
 
 def main():
